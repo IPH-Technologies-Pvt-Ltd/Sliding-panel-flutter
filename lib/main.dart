@@ -142,7 +142,6 @@ class _SlidingPanelAppState extends State<SlidingPanelApp> {
                 });
               },
               onHorizontalDragEnd: (details) {
-// Do nothing here to keep the side section at its current width
               },
               child: MouseRegion(
                 cursor: SystemMouseCursors.resizeColumn,
@@ -177,7 +176,7 @@ class _SlidingPanelAppState extends State<SlidingPanelApp> {
                           });
                         },
                         child: MouseRegion(
-                          cursor: SystemMouseCursors.resizeColumn,
+                          cursor: SystemMouseCursors.resizeRow,
                           child: Container(
                             height: 3,
                             color: Colors.grey.withOpacity(0.9),
