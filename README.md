@@ -24,6 +24,9 @@ Effortlessly navigate, files,folders with our sliding panel app: organize files,
 - Bottom Section - Interactive Description:
     The Bottom Section acts as an Interactive Description, allowing you to show description.
 
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.  
+
 ## Supported Platforms
 
 - Mac
