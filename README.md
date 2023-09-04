@@ -1,4 +1,4 @@
-# sliding_pannel
+# Sliding_pannel
 
 A new Flutter project.
 
