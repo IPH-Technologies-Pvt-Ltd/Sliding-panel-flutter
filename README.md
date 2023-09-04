@@ -6,6 +6,7 @@
 [![Ruby](https://img.shields.io/badge/ruby-%2320232a.svg?style=for-the-badge&logo=ruby&logoColor=%23CC342D)](https://www.ruby-lang.org/)
 [![HTML](https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Other](https://img.shields.io/badge/other-%2320232a.svg?style=for-the-badge)](https://www.example.com/)
+
 A new Flutter project.
 
 ## Getting Started
