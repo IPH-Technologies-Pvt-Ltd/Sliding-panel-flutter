@@ -8,14 +8,18 @@ A new Flutter project.
 - `flutter pub get`
 - `flutter run`
 
-A few resources to get you started if this is your first Flutter project:
+## Description
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Effortlessly navigate, files,folders with our sliding panel app: organize files, create content in a distraction-free workspace, and show the  description in the bottom section.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Key Features
+
+- Left Section - Sidebar Navigator:
+    The Left Section serves as your Sidebar Navigator, offering quick access to essential tools and resources.
+- Main Section - Central Workspace:
+    The Main Section forms the heart of your workspace, providing a spacious space to show the content
+- Bottom Section - Interactive Description:
+    The Bottom Section acts as an Interactive Description, allowing you to show description.
 
 ## Supported Platforms
 
