@@ -1,4 +1,4 @@
-# Sliding-Pannel-flutter
+# Sliding-Pannel
 ![Flutter](https://img.shields.io/badge/flutter-%2320232a.svg?style=for-the-badge&logo=flutter&logoColor=%02569B)
 [![Swift](https://img.shields.io/badge/swift-%2320232a.svg?style=for-the-badge&logo=swift&logoColor=%23F05138)](https://swift.org/)
 [![Dart](https://img.shields.io/badge/dart-%2320232a.svg?style=for-the-badge&logo=dart&logoColor=%230175C2)](https://dart.dev/)
